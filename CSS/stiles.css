@@ -173,7 +173,7 @@ section#posts {
     flex-direction: column;
   }
   footer {
-    background-color: #2f4f4f; /* Verde escuro */
+    background-color: #2f4f4f;
     color: white;
     text-align: center;
     padding: 10px 0;
